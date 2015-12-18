@@ -1,5 +1,5 @@
-# Automation-Sending-Emails-
-# Great example of where great logic, mediates great design
+# Automating web-based Email sending
+# Good example of where great logic, mediates great design
 
 This is a program that automates the generation of HTML based emails. It offers a high level of flexebility when it comes to importing images, files, and different HTML based functionalities, and at the same time, allows for complete automation of sending emails. 
 This script is useful for sending communications to hundreds or thousands of people, while at the same time, maintaining a very high level of aesthetic interface.
